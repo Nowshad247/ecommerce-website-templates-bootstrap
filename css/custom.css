@@ -1,0 +1,29 @@
+.crasol-bg-color{
+    background-color: pink;
+}
+.container{
+    margin-bottom: 50px;
+}
+.carousel-inner{
+    border-radius: 10px;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.cat1{
+    padding: 10px;
+    background-color: orange;
+    border-radius: 10px;
+    color: white;
+    margin: 20px;
+}
+.cat1 img{
+    width: 100px;
+}
+.card{
+    border:0;
+}
